@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data and model artifacts
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face / cache
+.cache/
+huggingface/
+wandb/
+
+# OS files
+.DS_Store
+Thumbs.db
